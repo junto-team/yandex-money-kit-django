@@ -1,4 +1,4 @@
-##yanexmoney-kit-django
+##yandexmoney-kit-django
 
 Модуль оплаты yanexmoney-kit-django необходим для интеграции с сервисом [Яндекс.Касса](http://kassa.yandex.ru/) на базе фраймворка [Django](https://www.djangoproject.com).
 
